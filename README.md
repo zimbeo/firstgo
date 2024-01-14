@@ -6,8 +6,7 @@ The `main.go` file is the file containing the `main` package along with the `mai
 
 ## WSL Setup
 
-# Install Go > 1.16 
-# https://dev.to/deadwin19/how-to-install-golang-on-wslwsl2-2880
+- Install Go > 1.16 using [these](https://dev.to/deadwin19/how-to-install-golang-on-wslwsl2-2880) instructions 
 
 ## Running the API
 ```
