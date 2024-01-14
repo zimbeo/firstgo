@@ -1,5 +1,5 @@
 # firstgo
-My first Go program
+My first Go program, modeled after [this](https://go.dev/doc/tutorial/web-service-gin] tutorial.
 
 ## Conventions
 The `main.go` file is the file containing the `main` package along with the `main()` function.
